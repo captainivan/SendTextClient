@@ -1,0 +1,31 @@
+  <?xml version="1.0" encoding="UTF-8"?>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>https://sendtexts.netlify.app/</loc>
+      <lastmod>2024-09-24T13:01:27+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://sendtexts.netlify.app/sendedtext</loc>
+      <lastmod>2024-09-24T13:01:27+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://sendtexts.netlify.app/receivedtext</loc>
+      <lastmod>2024-09-24T13:01:27+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://sendtexts.netlify.app/sendtext</loc>
+      <lastmod>2024-09-24T13:01:27+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://sendtexts.netlify.app/receivetext</loc>
+      <lastmod>2024-09-24T13:01:27+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://sendtexts.netlify.app/privaciy</loc>
+      <lastmod>2024-09-24T13:01:27+00:00</lastmod>
+    </url>
+    <url>
+      <loc>https://sendtexts.netlify.app/aboutus</loc>
+      <lastmod>2024-09-24T13:01:27+00:00</lastmod>
+    </url>
+  </urlset>
